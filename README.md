@@ -1,8 +1,10 @@
 # mud
 
 Fairly simple mud client - which will bind to local IP and port 5001\
-Should work out of the box, obviously needs some world design as there's only 4-5 rooms at current\
-To run on public IP, edit variable ip_addr in start_game.py and port as you want
+If wanting to run on publicly accessible IP, simply change 127.0.0.1\
+start_game.py variable ip_addr and/or port and open that port in IPTables.
+
+Should work out of the box, obviously needs some world design as there's only 4-5 rooms at current
 
 # TODO
 
