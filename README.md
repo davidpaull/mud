@@ -1,6 +1,6 @@
 # mud
 
-Fairly simple mud client - which will bind to local IP and port 5001\
+Fairly simple mud server - which will bind to local IP and port 5001\
 If wanting to run on publicly accessible IP, simply change 127.0.0.1\
 start_game.py variable ip_addr and/or port and open that port in IPTables.
 
